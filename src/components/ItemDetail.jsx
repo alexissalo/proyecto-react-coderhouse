@@ -10,7 +10,7 @@ function ItemDetail({ name, price, img, description }) {
             {name}
           </h2>
           <h5 class="text-secondary fs-6 fw-bold">${price}</h5>
-          <div class="text-secondary text-small">Talle :</div>
+          <div class="text-secondary text-small">Talle :aa</div>
           <div class="my-2">
             <div
               class="btn-group"
