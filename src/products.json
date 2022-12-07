@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "jordan air 1",
+    "price": 45000,
+    "description": "Un diseño atractivo y retro, unido a una comodidad premium. Un modelo renovado que incorpora detalles icónicos del mundo del baloncesto, conservado al mismo tiempo el confort y la ligereza que tan populares hicieron al modelo antecesor.",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/655812-500-auto?v=1756656841&width=500&height=auto&aspect=true",
+    "category": "hombre"
+  },
+  {
+    "id": "2",
+    "name": "nike air max",
+    "price": 50000,
+    "description": "Las zapatillas Nike Air Max utilizan un ancho cojinete de aire puesto sobre el talón y visible a lado de la intersuola para la mayoría de los modelos. ",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/612843-500-auto?v=1756522844&width=500&height=auto&aspect=true",
+    "category": "hombre"
+  },
+  {
+    "id": "3",
+    "name": "adidas multix",
+    "price": 28000,
+    "description": "Vienen directamente de la pista, así que saben una que otra cosa del ritmos, la comodidad y el esfuerzo necesarios para llegar a la meta.",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/437255-500-auto?v=1756392028&width=500&height=auto&aspect=true",
+    "category": "hombre"
+  },
+  {
+    "id": "4",
+    "name": "new balance 574",
+    "price": 35000,
+    "description": "Éstas zapatillas te ofrecen la misma calidad de materiales premium y máximo rendimiento que esperás de unas zapatillas New Balance",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/649942-500-auto?v=1755120065&width=500&height=auto&aspect=true",
+    "category": "mujer"
+  },
+  {
+    "id": "5",
+    "name": "adidas racer",
+    "price": 50000,
+    "description": "Estas Zapatillas llevan el estilo atlético del calzado para correr a tu look diario. Movete con confianza durante el día gracias a un ajuste cómodo y una entresuela liviana que brinda amortiguación. Confeccionadas con Primegreen, una serie de materiales reciclados de alto rendimiento.",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/638209-500-auto?v=1756392112&width=500&height=auto&aspect=true",
+    "category": "mujer"
+  },
+  {
+    "id": "6",
+    "name": "puma kosmos",
+    "price": 31000,
+    "description": "Dale a tu look un toque juvenil y dinámico con esta edición de inspiración tecnológica de las Kosmo Rider. Incluyen una base, paneles y líneas de corte nuevos, combinados en un diseño refinado, que crean un calzado atrevido y femenino que rinde homenaje al mundo digital. ",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/654999-500-auto?v=1756643351&width=500&height=auto&aspect=true",
+    "category": "mujer"
+  },
+  {
+    "id": "7",
+    "name": "adidas racer superstar",
+    "price": 12000,
+    "description": "Tu pequeño futuro superhéroe no tiene tiempo para cordones y tiras. Tienen un mundo que salvar. Estas zapatillas adidas Superstar para bebé tienen una estructura elástica de calce fácil que te permite ponerlas en sus pequeños pies en un abrir y cerrar de ojos. Su diseño liviano los hacen las compañeras perfectas para sus aventuras.",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/489830-500-auto?v=1756634778&width=500&height=auto&aspect=true",
+    "category": "niños"
+  },
+  {
+    "id": "8",
+    "name": "nike air force 1",
+    "price": 26000,
+    "description": "Celebrá un ícono, pero hacelo a todo color. Un estilo favorito desde que pisaron las canchas de básquet por primera vez en 1970, las zapatillas adidas Superstar nunca han dejado de cambiar, desafiar los límites y romper las reglas.",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/165152-500-auto?v=1756392016&width=500&height=auto&aspect=true",
+    "category": "niños"
+  },
+  {
+    "id": "9",
+    "name": "puma jada",
+    "price": 15000,
+    "description": "Cómodas, modernas y urbanas, las Zapatillas Puma Jada se adaptan a cada ocasión. Su diseño liviano es ideal para acompañarte en cada una de tus actividades. Llevalas al trabajo, salí con ellas y lucilas en cualquier rincón de la ciudad.",
+    "img": "https://grid0.vtexassets.com/arquivos/ids/569352-500-auto?v=1756461847&width=500&height=auto&aspect=true",
+    "category": "niños"
+  }
+]
