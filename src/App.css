@@ -21,3 +21,7 @@
 .link:hover{
   background: #ff1701;
 }
+
+.icon:hover{
+  fill: #ff1701;
+}
