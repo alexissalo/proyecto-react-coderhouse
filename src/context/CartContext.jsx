@@ -2,7 +2,7 @@ import React, { createContext, useState, useEffect } from "react";
 
 export const CartContext = createContext();
 
-const cartFromLocalStorage = JSON.parse(localStorage.getItem("cart")) || []
+const cartFromLocalStorage = JSON.parse(localStorage.getItem("cart")) || [];
 
 function CartContextProvider({ children }) {
   const [cart, setCart] = useState(cartFromLocalStorage);
