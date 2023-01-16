@@ -13,7 +13,6 @@ function Login() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      console.log(user);
       await login(user.email, user.password);
       navigate("/");
     } catch (error) {
